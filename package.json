@@ -1,0 +1,23 @@
+{
+  "name": "melzPortfolio",
+  "version": "1.0.0",
+  "description": "a responsive portfolio 2",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubemelchi/melzPortfolio.git"
+  },
+  "keywords": [],
+  "author": "Melchizedec Dube",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dubemelchi/melzPortfolio/issues"
+  },
+  "homepage": "https://github.com/dubemelchi/melzPortfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
